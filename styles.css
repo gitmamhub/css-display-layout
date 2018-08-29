@@ -1,0 +1,28 @@
+img{
+    border: 10px;
+    max-width: 500px;
+    border-color: yellow;
+    margin: 20px;
+    padding: 35px;
+  }
+
+
+ div > h3{
+background-color: black;
+color:white;
+text-align: center;
+}
+
+div > nav > h5  {
+  background-color: grey;
+  color: white;
+  text-align: center;
+
+}
+
+footer > h6 {
+
+  background-color: black;
+  color: white;
+  text-align: center;
+}
