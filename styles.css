@@ -1,28 +1,62 @@
-img{
-    border: 10px;
-    max-width: 500px;
-    border-color: yellow;
-    margin: 20px;
-    padding: 35px;
-  }
+
+
+
 
 
  div > h3{
+
 background-color: black;
 color:white;
 text-align: center;
 }
 
-div > nav > h5  {
+div > section > h5{
+  border-width: 100px;
+  display: inline;
   background-color: grey;
   color: white;
+}
+
+.column{
+
+float:left;
+width: 33.33%;
+padding: 3px;
+box-sizing: border-box;
+}
+
+.column  p{
+
+text-align: center;
+
+}
+
+section{
+  text-align: center;
+}
+
+
+footer h6 {
+  background-color: black;
+  color: white;
+
+}
+
+nav >div  {
+  display: inline;
+background-color: lightblue;
+
+  color: black;
   text-align: center;
 
 }
 
-footer > h6 {
 
-  background-color: black;
-  color: white;
-  text-align: center;
+
+
+div > li{
+  display: inline;
+  color: blue;
+  background-color: yellow;
+  font-size: 10;
 }
